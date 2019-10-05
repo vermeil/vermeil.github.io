@@ -1,9 +1,9 @@
 {
-    " content":"人生不能像做菜,把所有的料准备好オ下锅",
-    "fav_nums": 0,
+    "content":"人生不能像做菜,把所有的料准备好オ下锅",
+    "fav_nums": 10,
     "image":"https://vermeil.cn/classic/1.png",
     "index": 7,
-    "Like_status": 0,
+    "Like_status":false,
     "pubdate":"2018-06-22",
     "title":"李安<<饮食男女>>",
     "type":100
